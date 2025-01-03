@@ -1,7 +1,5 @@
 # Battleships-B-Specification
 
-# Battleships B Specification
-
 This repository contains the B specification for a simplified version of the Battleships board game, developed as coursework for the Formal Methods (6SENG005W) module at the University of Westminster. The project demonstrates the use of the B method to formally specify a system using sets, constants, variables, and operations.
 
 
